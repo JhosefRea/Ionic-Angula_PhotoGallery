@@ -3,7 +3,7 @@
 <p>Esta práctica fue desarrollada con el framework Ionic, usando como librería a Angular y librerías de Capacitor. Se desarrolló el primer proyecto en Ionic que consta de una galería de fotos</p>
 <h4>Codificación</h4>
 <p>Estructura del código</p>
-![image](https://user-images.githubusercontent.com/66775663/172060871-6423f949-93d7-4ca3-bec6-bffafa9ba94b.png)
+https://user-images.githubusercontent.com/66775663/172060871-6423f949-93d7-4ca3-bec6-bffafa9ba94b.png
 
 
 <h4>Intrerfaz gráfica en la Web</h4>
